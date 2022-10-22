@@ -1,0 +1,41 @@
+name: academycourse
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.1 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.0.1
+  flutter_svg: ^1.1.5
+  firebase_core: ^2.0.0
+  lottie: ^1.4.3
+  flutter_bloc: ^8.1.1
+  bloc: ^8.1.0
+  pin_code_fields: ^7.4.0
+  cloud_firestore: ^4.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic

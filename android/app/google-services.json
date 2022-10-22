@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "96413718886",
+    "project_id": "academy-course-22cc5",
+    "storage_bucket": "academy-course-22cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96413718886:android:41b4d40cdf3f0d35e910a7",
+        "android_client_info": {
+          "package_name": "com.basuoni.academycourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96413718886-qiig1lh8p1gg0lsrk56k9h6gp9g90qof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.basuoni.academycourse",
+            "certificate_hash": "a4a13b85d4b571c3b0382bfa5fa32d2f308ce037"
+          }
+        },
+        {
+          "client_id": "96413718886-gl0uorbblsou2vfhgv1mj1vimel71g4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-T0o7idsdRmtrdGOfPRKzzmbbwz8N8CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96413718886-gl0uorbblsou2vfhgv1mj1vimel71g4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
